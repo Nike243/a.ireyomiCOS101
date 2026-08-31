@@ -7,3 +7,4 @@ fn main() {
 
 	println!("My name is {}. I am currently a student of Computer.", "Adenike Ireyomi");
 }
+
